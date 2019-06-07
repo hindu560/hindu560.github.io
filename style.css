@@ -2,10 +2,22 @@
                 color:#E91E63;
                 
             }
+body{
+    background:#2C3A47
+}
             h3{
                 background:#607D8B;
                 color:#3F51B5;
+                padding:20px;
             }
 .box{
-    background:pink;
+    background:#CAD3C8;
+    margin:100px;
+    padding:100px;
+}
+#image{
+    width:200px;
+    height:200px;
+    border-radius: 200px;
+    border:10px solid blue;
 }
